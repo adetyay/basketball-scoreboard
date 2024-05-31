@@ -42,6 +42,7 @@ body {
 }
 
 button{
+    cursor: pointer;
     border: 1px solid #9AABD8;
     font-family: scoreFont;
     padding: 10px;
